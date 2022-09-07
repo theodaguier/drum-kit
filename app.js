@@ -49,3 +49,5 @@ pad.addEventListener('click', () => {
         document.getElementById('anim').classList.remove('animation');
       }, 250);
 })
+
+
